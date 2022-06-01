@@ -2,7 +2,7 @@
 
 Portfolio Project using HTML, CSS , JS only
 
-deployment link : https://voluble-tarsier-04f6ec.netlify.app
+deployment link : https://syed-mustafa-hashmi.netlify.app
 
 Navigation :
 
