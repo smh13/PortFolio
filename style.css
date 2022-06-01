@@ -150,3 +150,9 @@ img:hover {
 	cursor: pointer;
   }
   .button4 {border-radius: 12px;}
+
+  @media only screen and (max-width:400px){
+	  #about{
+		  width: 10%;
+	  }
+  }
